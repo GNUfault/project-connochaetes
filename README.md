@@ -1,5 +1,5 @@
 # Project Connochaetes
-Simple RISC-V 32 CPU
+RISCV64IMA CPU
 
 ## TODO
 - Add privilege modes
